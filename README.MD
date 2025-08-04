@@ -3,7 +3,7 @@
 **Python Developer / Backend Engineer**
 
 📍 Bishkek, Kyrgyzstan  
-📧 your.email@example.com  
+📧 zholnurs@gmail.com
 🔗 [GitHub](https://github.com/Nursultan1125) | [LinkedIn](https://www.linkedin.com/in/nursultan-zholdoshbekov-b5a183189/)  
 
 ---
